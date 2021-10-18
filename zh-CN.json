@@ -1,0 +1,237 @@
+{
+    "adminHeader": {
+        "exit": "退出"
+    },
+    "adminAside": {
+        "index": "首页",
+        "employees": "员工"
+    },
+    "views": {
+        "login": {
+            "index": {},
+            "recoverpw": {},
+            "register": {}
+        },
+        "admin": {},
+        "teamEroject": {},
+        "team": {},
+        "workbenchEdit": {},
+        "workbenchShow": {},
+        "workbenchUpload": {},
+        "workbench": {}
+    },
+    "modules": {
+        "adminAside": {
+            "index": "首页",
+            "glossary": "术语库",
+            "gallery": "图片库",
+            "integration": "集成"
+        },
+        "adminHeader": {
+            "addCustomerService":"添加客服",
+            "customerServiceSupport":"客服支持",
+            "newbieGuide":"新手指南",
+            "feedback":"意见反馈",
+            "exit": "退出"
+        },
+        "publicHeader": {
+            "content":"开启更多功能，提高协作效率",
+            "registered":"注册",
+            "login":"登录"
+        },
+        "publicMain": {
+            "description":"当前项目还没有翻译任务哦"
+        },
+        "publicScreening":{
+            "pleaseSelect":"请选择",
+            "translationTime":"翻译时间",
+            "startDate":"开始日期",
+            "endDate":"结束日期",
+            "progress":"进度"
+        },
+        "workbenchHeader":{
+            
+        }
+    },
+    "components": {
+        "addCollaboration": {
+            "title": "添加协作者",
+            "label": "外部邀请链接",
+            "copy": "一键复制",
+            "admin": "管理员",
+            "reviewer": "审核员",
+            "translator": "翻译员",
+            "copySuccess": "复制成功",
+            "copyTheFailure": "复制失败"
+        },
+        "articleProgress": {
+            "paragraph": "段落",
+            "translated": "已翻译",
+            "approved": "已审核",
+            "approvedTo": "审核通过"
+        },
+        "collaboration": {
+            "placeholder": "请输入内容",
+            "collaborators": "协作者",
+            "addCollaborators": "添加协作者",
+            "pleaseSelect": "请选择",
+            "managers": "管理者",
+            "reviewer": "审核员",
+            "translator": "翻译员",
+            "admin": "管理者",
+            "removePermissions": "移除已选权限",
+            "atLeastOneAdministratorIsRequired": "至少需要一个管理员"
+        },
+        "exportCreate": {
+            "createExport": "创建导出",
+            "file": "文件",
+            "theSelected": "已选",
+            "a": "个",
+            "fileName": "文件名称",
+            "targetLanguage": "目标语言",
+            "reviewStatus": "任务审核状态",
+            "toAudit": "待审核",
+            "approved": "审核通过",
+            "exportImmediately": "立即导出"
+        },
+        "export": {
+            "exportList": "导出列表",
+            "placeholder": "请输入内容",
+            "createExport": "创建导出",
+            "fileName": "导出文件名",
+            "exportTime": "导出时间",
+            "operation": "操作",
+            "download": "下载",
+            "ok": "好的",
+            "no": "不用了",
+            "title": "这是一个导出文件确定删除吗？",
+            "del": "删除"
+        },
+        "lang": {},
+        "projectCard": {
+            "asOfTheDate": "截止日期",
+            "creationDate": "创建日期",
+            "membersProject": "项目成员",
+            "operation": "操作",
+            "workbench": "工作台",
+            "searchTaskName": "搜索任务名",
+            "task": "任务",
+            "creationTime": "创建时间",
+            "del": "删除",
+            "taskManagement": "任务管理",
+            "editor": "编辑",
+            "ok": "好的",
+            "no": "不用了",
+            "projectDelTitle": "确定删除该项目吗？",
+            "deleteTask": "删除任务",
+            "deleteTaskP1": "您正在删除任务",
+            "deleteTaskP2": "将会永久删除当前任务，",
+            "deleteTaskP3": "不可恢复",
+            "deleteTaskP4": "包含已翻译的内容，译员草稿等都无法恢复，请谨慎操作！",
+            "secondaryConfirmation": "输入任务名，确认删除",
+            "secondaryConfirmationPrompt": "文件名不能为空",
+            "cancel": "取消",
+            "confirm": "确认",
+            "index": "首页",
+            "deleteSuccess": "删除成功",
+            "deleteFailedPrompt": "您输入的文件名与删除的文件名不符"
+        },
+        "publicPreview": {
+            "originalPreview": "原文预览",
+            "translationPreview": "译文预览",
+            "emptyDescription": "还没有提交及审核的内容，不可预览哦"
+        },
+        "sectionList": {
+            "draft": "草稿",
+            "audit": "待审核",
+            "through": "通过",
+            "rejected": "驳回",
+            "noTranslation": "无翻译内容"
+        },
+        "share": {
+            "password": "分享-密码访问",
+            "private": "私有",
+            "passwordDescribe": "仅有密码的人可以访问",
+            "privateDescribe": "仅知道链接的人可以访问",
+            "accessPassword": "访问密码（4位数字）:",
+            "passwordCannotEmpty": "密码不能为空",
+            "passwordMustNnumber": "密码必须为数字",
+            "passwordPrompt": "密码必须为四位数字",
+            "copyLink": "复制链接",
+            "copySuccess": "复制成功",
+            "copyFailure": "复制失败",
+            "fourDigitPassword": "请输入四位密码"
+        },
+        "term": {
+            "copy": "复制",
+            "noCorresponding": "未有对应术语翻译",
+            "notTranslate": "不可翻译",
+            "caseSensitive": "区分大小写",
+            "copySuccess": "复制成功",
+            "copyFailure": "复制失败"
+        },
+        "transformationProgress": {
+            "notAtThe": "未开始",
+            "hasBeenCompleted": "已完成"
+        }
+    },
+    "store": {
+        "asset": {
+            "fileTypesAreNotSupported": "不支持文件类型",
+            "onTheCross": "上传中",
+            "uploadFailed": "上传失败",
+            "fileIsTooLarge": "文件过大,上传失败",
+            "parseFailure": "解析失败"
+        },
+        "exportFile": {
+            "deleteSuccess": "删除成功",
+            "creatingSuccessful": "创建成功",
+            "reviewStatus": "请选择任务审核状态",
+            "targetLanguage": "请选择目标语言",
+            "fileEmpty": "文件不能为空"
+        },
+        "gallery": {
+            "addSuccess": "添加成功",
+            "deleteSuccess": "删除成功",
+            "modifySuccess": "修改成功"
+        },
+        "general": {
+            "index": "首页"
+        },
+        "glossary": {
+            "creatingSuccessful": "创建成功",
+            "deleteSuccess": "删除成功",
+            "modifySuccess": "修改成功",
+            "createFailure": "创建失败,该术语已存在"
+        },
+        "intergrations": {
+            "gitHub": "与 GitHub 存储库交换文件。",
+            "gitee": "与 Gitee 存储库交换文件。",
+            "coding": "与 Coding 存储库交换文件。",
+            "gitlab": "与 Gitlab 存储库交换文件。",
+            "dropbox": "与 Dropbox 存储库交换文件。",
+            "onedrive": "与 Onedrive 存储库交换文件。",
+            "boundAccount": "绑定账号：",
+            "cancelAuthorization": "取消授权成功"
+        },
+        "key": {
+            "deleteSuccess": "删除成功",
+            "modifySuccess": "修改成功"
+        },
+        "prjMember": {
+            "deleteSuccess": "删除成功",
+            "modifySuccess": "修改成功"
+        },
+        "section": {
+            "creatingSuccessful": "创建成功",
+            "modifySuccess": "修改成功"
+        },
+        "translation": {
+            "submittedSuccessfully": "提交成功",
+            "translationSuccessful": "翻译成功",
+            "reviewSuccessful": "提交审核成功",
+            "returnAuditSuccess": "退回审核成功",
+            "withdrawReview": "撤回审核申请成功"
+        }
+    }
+}
