@@ -40,7 +40,8 @@
             "login":"登录"
         },
         "publicMain": {
-            "description":"当前项目还没有翻译任务哦"
+            "description":"当前项目还没有翻译任务哦",
+            "description2":"当前项目还没有翻译任务哦hahahahhahhaha"
         },
         "publicScreening":{
             "pleaseSelect":"请选择",
