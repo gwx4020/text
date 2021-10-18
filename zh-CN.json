@@ -1,6 +1,7 @@
 {
     "adminHeader": {
-        "exit": "退出"
+        "exit": "退出",
+        "exit2": "退出-222222222"
     },
     "adminAside": {
         "index": "首页",
